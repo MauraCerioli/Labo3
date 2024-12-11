@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\EmailSenderImplementation1\EmailSenderImplementation1.csproj" />
     <ProjectReference Include="..\EmailSenderInterfaces\EmailSenderInterfaces.csproj" />
+    <ProjectReference Include="..\TinyDependencyInjectionContainer\TinyDependencyInjectionContainer.csproj" />
   </ItemGroup>
 
 </Project>
